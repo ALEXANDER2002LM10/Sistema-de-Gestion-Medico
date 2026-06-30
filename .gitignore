@@ -1,0 +1,17 @@
+# Credenciales y configuración local (NO subir a GitHub)
+db_config.php
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs y temporales
+*.log
+*.tmp
+
+# Dependencias (si en el futuro usas Composer)
+/vendor/
+
+# Configuración de editores
+.vscode/
+.idea/
